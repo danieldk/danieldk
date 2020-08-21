@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on:
   * [Transformer-based models](https://github.com/stickeritis/) for natural language processing.
   * Contributing to various parts of [nixpkgs](https://github.com/NixOS/nixpkgs/).
-- 🔨 I currently use: Rust 🦀, Nix ❄, and Torch 🔥.
+- 🔨 I currently use: Rust 🦀, NixOS ❄, and Torch 🔥.
 - 📫 How to reach me: Send me an e-mail!
 
 <!--
