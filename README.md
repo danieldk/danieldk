@@ -1,6 +1,7 @@
 ### Hi! 👋 I am Daniël.
 
 - 🔭 I’m currently working on:
+  * 💫[spaCy](https://github.com/explosion/spacy) and 🔮[Thinc](https://github.com/explosion/thinc)
   * Machine learning models for natural language processing.
   * Contributing to various parts of [nixpkgs](https://github.com/NixOS/nixpkgs/commits?author=danieldk).
 - 🔨 I currently use: [CP]ython, Rust 🦀, macOS, Fedora, NixOS ❄, and Torch 🔥.
